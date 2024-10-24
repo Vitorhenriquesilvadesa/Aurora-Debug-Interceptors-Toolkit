@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="AuroraInterceptorAPI">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../AuroraInterceptorAPI/out/artifacts/AuroraInterceptorAPI_jar/AuroraInterceptorAPI.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
